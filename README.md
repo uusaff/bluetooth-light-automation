@@ -19,4 +19,4 @@ This project is a Python automation script designed to connect and control Bluet
 ## 🛠️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/bluetooth-vibe-controller.git](https://github.com/uusaff/bluetooth-vibe-controller.git)
+git clone [https://github.com/uusaff/bluetooth-light-automation.git](https://github.com/uusaff/bluetooth-light-automation.git)
